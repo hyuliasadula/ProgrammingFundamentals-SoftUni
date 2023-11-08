@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace _9_PalindromeIntegers
+namespace _09_PalindromeIntegers
 {
     internal class Program
     {
