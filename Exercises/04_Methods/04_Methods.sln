@@ -19,7 +19,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_NxNMatrix", "07_NxNMatri
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08_FactorialDivision", "08_FactorialDivision\08_FactorialDivision.csproj", "{B24F2B23-0533-4EC1-8B86-A91DEAF2AE45}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9_PalindromeIntegers", "9_PalindromeIntegers\9_PalindromeIntegers.csproj", "{DFC69DEE-DB9A-4F1C-B24F-CE2C146F4C14}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09_PalindromeIntegers", "9_PalindromeIntegers\09_PalindromeIntegers.csproj", "{DFC69DEE-DB9A-4F1C-B24F-CE2C146F4C14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10_TopNumber", "10_TopNumber\10_TopNumber.csproj", "{074DBEE6-A6F0-4442-A0CD-70C68320AE25}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{DFC69DEE-DB9A-4F1C-B24F-CE2C146F4C14}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DFC69DEE-DB9A-4F1C-B24F-CE2C146F4C14}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DFC69DEE-DB9A-4F1C-B24F-CE2C146F4C14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{074DBEE6-A6F0-4442-A0CD-70C68320AE25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{074DBEE6-A6F0-4442-A0CD-70C68320AE25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{074DBEE6-A6F0-4442-A0CD-70C68320AE25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{074DBEE6-A6F0-4442-A0CD-70C68320AE25}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
